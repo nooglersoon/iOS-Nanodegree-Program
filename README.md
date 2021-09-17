@@ -21,7 +21,11 @@ On this iOS Developer Nanodegree Program, I learn about basics of iOS app develo
 
 | Project Name        | App Previews          | Link to Project |
 | :-------------: |:-------------:| :-------------:|
-| Coming Soon    | Coming Soon | Coming Soon |
+| Pitch Perfect   | Coming Soon | [Link](https://github.com/nooglersoon/Project/tree/main/Pitch%20Perfect) |
+| Meme Me  | Coming Soon | [Link](https://github.com/nooglersoon/Project/tree/main/Meme%20Me%201.0) |
+| On The Map   | Coming Soon | [Link](https://github.com/nooglersoon/Project/tree/main/On%20The%20Map) |
+| Virtual Tourist   | Coming Soon | [Link](https://github.com/nooglersoon/Project/tree/main/Virtual%20Tourist) |
+| Nutrition Box   | Coming Soon | [Link](https://github.com/nooglersoon/Nutrition-Box) |
 
 ## Certification
 
