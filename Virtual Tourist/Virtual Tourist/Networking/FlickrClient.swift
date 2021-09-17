@@ -10,8 +10,8 @@ import UIKit
 
 class FlickrClient {
     
-    static let apiKey = "083b89311978688b0641bb14294c0ba5"
-    static let keySecret = "a317551829f57e76"
+    static let apiKey = ""
+    static let keySecret = ""
     static let baseURL = "https://api.flickr.com/services/rest/?method=flickr.photos.getRecent"
     static let radius = 30
     static let basePhotoURL = "https://live.staticflickr.com/"
